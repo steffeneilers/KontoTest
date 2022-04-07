@@ -1,0 +1,5 @@
+ - public bedeutet, dass auch Methoden außerhalb des Objektes auf die Methode/Variable zugreifen können
+ - private bedeutet, dass nur Methoden des Objektes auf die Methode/Variable zugreifen können
+ - protected bedeutet, dass auch innerhalb des Objektes nur Leseoperationen erfolgen können 
+
+Die Methoden und Variablen der Klasse Konto werden auf jedes Objekt der Klasse Girokonto übertragen
