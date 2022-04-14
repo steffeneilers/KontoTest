@@ -14,8 +14,8 @@ public class Konto {
   // Ende Attribute
   
   public Konto(String kn, String inh) {
-    this.kontonummer = "";
-    this.inhaber = "";
+    this.kontonummer = kn;
+    this.inhaber = inh;
   }
 
   // Anfang Methoden
